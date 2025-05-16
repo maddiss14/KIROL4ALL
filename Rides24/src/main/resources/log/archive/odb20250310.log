@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-10 16:23:40 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 11288@DESKTOP-Q03EHD8
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-10 16:24:15 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 16372@DESKTOP-Q03EHD8
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-10 16:25:08 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 2728@DESKTOP-Q03EHD8
+
+[2025-03-10 16:25:08 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-10 16:25:08 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-10 16:25:08 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-10 16:25:08 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-10 16:25:08 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-10 16:25:08 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-03-10 16:25:11 #8 type.registry] 
+New type domain.User
+
+[2025-03-10 16:25:11 #9 type] 
+Type domain.User is not enhanced.
+

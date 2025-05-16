@@ -1,0 +1,459 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:19:33 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 6648@DESKTOP-Q03EHD8
+
+[2025-03-16 12:19:33 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-16 12:19:33 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:19:33 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-16 12:19:33 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:19:33 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-16 12:19:33 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:24:07 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 14188@DESKTOP-Q03EHD8
+
+[2025-03-16 12:24:07 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-16 12:24:07 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:24:07 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-16 12:24:07 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:24:07 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-16 12:24:07 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:25:57 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 2552@DESKTOP-Q03EHD8
+
+[2025-03-16 12:25:57 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:25:57 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:26:13 #4 type.registry] 
+New type domain.User
+
+[2025-03-16 12:26:13 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:27:47 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 9480@DESKTOP-Q03EHD8
+
+[2025-03-16 12:27:47 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:27:47 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:27:47 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:28:21 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 9-9)
+
+[2025-03-16 12:28:21 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 10088@DESKTOP-Q03EHD8
+
+[2025-03-16 12:28:21 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:28:21 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:28:21 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-03-16 12:29:15 #6 type.registry] 
+New type java.lang.Object[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:30:54 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 12936@DESKTOP-Q03EHD8
+
+[2025-03-16 12:30:54 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-16 12:30:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:30:54 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-16 12:30:54 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:30:54 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-16 12:30:54 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-03-16 12:31:10 #8 type.registry] 
+New type domain.User
+
+[2025-03-16 12:31:10 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:31:42 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 1-8)
+
+[2025-03-16 12:31:42 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 14148@DESKTOP-Q03EHD8
+
+[2025-03-16 12:31:42 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:31:42 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:31:42 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:31:46 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 9-13)
+
+[2025-03-16 12:31:47 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 14632@DESKTOP-Q03EHD8
+
+[2025-03-16 12:31:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:31:47 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:31:47 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:34:29 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 6824@DESKTOP-Q03EHD8
+
+[2025-03-16 12:34:29 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:34:29 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:34:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-03-16 12:34:43 #5 type.registry] 
+New type java.lang.Object[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:38:36 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 14-14)
+
+[2025-03-16 12:38:36 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 6988@DESKTOP-Q03EHD8
+
+[2025-03-16 12:38:36 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:38:36 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:38:36 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:40:37 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 4136@DESKTOP-Q03EHD8
+
+[2025-03-16 12:40:38 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:40:38 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:40:38 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:40:52 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 8120@DESKTOP-Q03EHD8
+
+[2025-03-16 12:40:52 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:40:52 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:40:52 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:41:43 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 5000@DESKTOP-Q03EHD8
+
+[2025-03-16 12:41:43 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:41:43 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:41:43 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:42:57 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 15-15)
+
+[2025-03-16 12:42:58 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 16436@DESKTOP-Q03EHD8
+
+[2025-03-16 12:42:58 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:42:58 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:42:58 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:43:19 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 10276@DESKTOP-Q03EHD8
+
+[2025-03-16 12:43:19 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:43:19 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:43:19 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:44:33 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 12264@DESKTOP-Q03EHD8
+
+[2025-03-16 12:44:34 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:44:34 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:44:34 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:44:53 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 5764@DESKTOP-Q03EHD8
+
+[2025-03-16 12:44:53 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:44:53 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:44:53 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:46:40 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 3784@DESKTOP-Q03EHD8
+
+[2025-03-16 12:46:40 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:46:40 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:46:40 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:47:05 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 2528@DESKTOP-Q03EHD8
+
+[2025-03-16 12:47:06 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:47:06 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:47:06 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:48:00 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 9880@DESKTOP-Q03EHD8
+
+[2025-03-16 12:48:00 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:48:00 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:48:00 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:52:53 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 10184@DESKTOP-Q03EHD8
+
+[2025-03-16 12:52:53 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-16 12:52:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:52:54 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-16 12:52:54 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:52:54 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-16 12:52:54 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:53:06 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 1-6)
+
+[2025-03-16 12:53:06 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 6840@DESKTOP-Q03EHD8
+
+[2025-03-16 12:53:06 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:53:06 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:53:21 #5 type.registry] 
+New type domain.User
+
+[2025-03-16 12:53:21 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:58:14 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 3792@DESKTOP-Q03EHD8
+
+[2025-03-16 12:58:14 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:58:14 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:58:14 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 12:58:36 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 9-9)
+
+[2025-03-16 12:58:36 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 4584@DESKTOP-Q03EHD8
+
+[2025-03-16 12:58:36 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 12:58:36 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 12:58:36 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-03-16 12:58:46 #6 type.registry] 
+New type java.lang.Object[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 13:02:13 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 14592@DESKTOP-Q03EHD8
+
+[2025-03-16 13:02:13 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 13:02:13 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 13:02:13 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 13:04:46 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' has been recovered (tr. 11-11)
+
+[2025-03-16 13:04:46 #2 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 15388@DESKTOP-Q03EHD8
+
+[2025-03-16 13:04:46 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 13:04:46 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 13:04:46 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-16 13:04:51 #1 store] 
+Database 'C:\IS1\Proyecto\Iteracion1\Rides24-master\src\main\resources\rides.temp' is opened by 4740@DESKTOP-Q03EHD8
+
+[2025-03-16 13:04:51 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-16 13:04:51 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-16 13:04:51 #4 type] 
+Type domain.User is not enhanced.
+

@@ -1,0 +1,491 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 12:01:37 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 19232@DESKTOP-Q03EHD8
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 12:57:29 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 3484@DESKTOP-Q03EHD8
+
+[2025-05-08 12:57:58 #2 type.registry] 
+New type domain.Socio
+
+[2025-05-08 12:57:58 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 12:57:58 #4 type.registry] 
+New type domain.Factura
+
+[2025-05-08 12:57:58 #5 type.registry] 
+New type domain.Reserva
+
+[2025-05-08 12:57:58 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 12:57:58 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 12:57:58 #8 type.registry] 
+New type domain.Sesion
+
+[2025-05-08 12:57:58 #9 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 12:57:58 #10 type.registry] 
+New type domain.Actividades
+
+[2025-05-08 12:57:58 #11 type.registry] 
+New type domain.Sala
+
+[2025-05-08 12:57:58 #12 type.registry] 
+New type java.time.LocalTime
+
+[2025-05-08 12:57:58 #13 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 12:57:58 #14 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 12:59:42 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' has been recovered (tr. 12-12)
+
+[2025-05-08 12:59:42 #2 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 14312@DESKTOP-Q03EHD8
+
+[2025-05-08 12:59:43 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 12:59:43 #4 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 12:59:43 #5 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 12:59:43 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 12:59:43 #7 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 12:59:43 #8 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 13:03:14 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 4892@DESKTOP-Q03EHD8
+
+[2025-05-08 13:03:14 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 13:03:14 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 13:03:14 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 13:03:14 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 13:03:14 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 13:03:14 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 13:05:37 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 17704@DESKTOP-Q03EHD8
+
+[2025-05-08 13:05:38 #2 type.registry] 
+New type domain.Sesion
+
+[2025-05-08 13:05:38 #3 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 13:05:38 #4 type.registry] 
+New type domain.Reserva
+
+[2025-05-08 13:05:38 #5 type.registry] 
+New type domain.Socio
+
+[2025-05-08 13:05:38 #6 type.registry] 
+New type domain.Actividades
+
+[2025-05-08 13:05:38 #7 type.registry] 
+New type domain.Sala
+
+[2025-05-08 13:05:38 #8 type.registry] 
+New type java.time.LocalTime
+
+[2025-05-08 13:05:38 #9 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 13:05:38 #10 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 13:05:38 #11 type.registry] 
+New type domain.Factura
+
+[2025-05-08 13:05:38 #12 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 13:05:38 #13 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-08 13:05:38 #14 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 13:05:38 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 13:07:16 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 17356@DESKTOP-Q03EHD8
+
+[2025-05-08 13:07:17 #2 type.registry] 
+New type domain.Socio
+
+[2025-05-08 13:07:17 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 13:07:17 #4 type.registry] 
+New type domain.Factura
+
+[2025-05-08 13:07:17 #5 type.registry] 
+New type domain.Reserva
+
+[2025-05-08 13:07:17 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 13:07:17 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 13:07:17 #8 type.registry] 
+New type domain.Sesion
+
+[2025-05-08 13:07:17 #9 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 13:07:17 #10 type.registry] 
+New type domain.Actividades
+
+[2025-05-08 13:07:17 #11 type.registry] 
+New type domain.Sala
+
+[2025-05-08 13:07:17 #12 type.registry] 
+New type java.time.LocalTime
+
+[2025-05-08 13:07:17 #13 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 13:07:17 #14 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-08 13:07:17 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-08 13:07:17 #16 type.registry] 
+New type java.util.Vector<domain.Reserva>
+
+[2025-05-08 13:07:17 #17 type.registry] 
+New type java.util.Vector<domain.Factura>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 13:08:28 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 1584@DESKTOP-Q03EHD8
+
+[2025-05-08 13:08:28 #2 type.registry] 
+New type domain.Socio
+
+[2025-05-08 13:08:28 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 13:08:28 #4 type.registry] 
+New type domain.Factura
+
+[2025-05-08 13:08:28 #5 type.registry] 
+New type domain.Reserva
+
+[2025-05-08 13:08:28 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 13:08:28 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 13:08:28 #8 type.registry] 
+New type domain.Sesion
+
+[2025-05-08 13:08:28 #9 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 13:08:28 #10 type.registry] 
+New type domain.Actividades
+
+[2025-05-08 13:08:28 #11 type.registry] 
+New type domain.Sala
+
+[2025-05-08 13:08:28 #12 type.registry] 
+New type java.time.LocalTime
+
+[2025-05-08 13:08:28 #13 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 13:08:28 #14 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-08 13:08:28 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-08 13:08:28 #16 type.registry] 
+New type java.util.Vector<domain.Reserva>
+
+[2025-05-08 13:08:28 #17 type.registry] 
+New type java.util.Vector<domain.Factura>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 13:08:44 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 12836@DESKTOP-Q03EHD8
+
+[2025-05-08 13:08:45 #2 type.registry] 
+New type domain.Socio
+
+[2025-05-08 13:08:45 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 13:08:45 #4 type.registry] 
+New type domain.Factura
+
+[2025-05-08 13:08:45 #5 type.registry] 
+New type domain.Reserva
+
+[2025-05-08 13:08:45 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 13:08:45 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 13:08:45 #8 type.registry] 
+New type domain.Sesion
+
+[2025-05-08 13:08:45 #9 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 13:08:45 #10 type.registry] 
+New type domain.Actividades
+
+[2025-05-08 13:08:45 #11 type.registry] 
+New type domain.Sala
+
+[2025-05-08 13:08:45 #12 type.registry] 
+New type java.time.LocalTime
+
+[2025-05-08 13:08:45 #13 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 13:08:45 #14 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-08 13:08:45 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-08 13:08:45 #16 type.registry] 
+New type java.util.Vector<domain.Reserva>
+
+[2025-05-08 13:08:45 #17 type.registry] 
+New type java.util.Vector<domain.Factura>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 13:13:38 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' has been recovered (tr. 1-7)
+
+[2025-05-08 13:13:38 #2 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 14084@DESKTOP-Q03EHD8
+
+[2025-05-08 13:13:38 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 13:13:38 #4 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 13:13:38 #5 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 13:13:38 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 13:13:38 #7 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 13:13:38 #8 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:03:04 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 11768@DESKTOP-Q03EHD8
+
+[2025-05-08 16:03:04 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:03:04 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:03:04 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:03:04 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:03:04 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:03:04 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:05:39 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 1304@DESKTOP-Q03EHD8
+
+[2025-05-08 16:05:40 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:05:40 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:05:40 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:05:40 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:05:40 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:05:40 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:10:48 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 6076@DESKTOP-Q03EHD8
+
+[2025-05-08 16:10:48 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:10:48 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:10:48 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:10:48 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:10:48 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:10:48 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:11:46 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 19400@DESKTOP-Q03EHD8
+
+[2025-05-08 16:11:46 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:11:46 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:11:46 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:11:46 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:11:46 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:11:46 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:12:07 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 7208@DESKTOP-Q03EHD8
+
+[2025-05-08 16:12:07 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:12:07 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:12:07 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:12:07 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:12:07 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:12:07 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:13:08 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 14112@DESKTOP-Q03EHD8
+
+[2025-05-08 16:13:08 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:13:08 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:13:08 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:13:08 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:13:08 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:13:08 #7 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-08 16:36:07 #1 store] 
+Database 'C:\Users\maddi\git\KIROL4ALL\Rides24\src\main\resources\rides.temp' is opened by 17192@DESKTOP-Q03EHD8
+
+[2025-05-08 16:36:08 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-08 16:36:08 #3 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-08 16:36:08 #4 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-08 16:36:08 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-08 16:36:08 #6 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-08 16:36:08 #7 type] 
+Type domain.Sala is not enhanced.
+
