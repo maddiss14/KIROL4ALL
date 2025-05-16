@@ -1888,3 +1888,295 @@ New type java.util.Vector<domain.Reserva>
 [2025-05-16 15:51:03 #17 type.registry] 
 New type java.util.Vector<domain.Factura>
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 16:25:03 #1 store] 
+Database 'C:\Users\maddi\git\isGlobal\Rides24\src\main\resources\rides.temp' is opened by 12016@DESKTOP-Q03EHD8
+
+[2025-05-16 16:25:03 #2 type.registry] 
+New type domain.Sala
+
+[2025-05-16 16:25:03 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 16:25:03 #4 type.registry] 
+New type domain.Sesion
+
+[2025-05-16 16:25:03 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 16:25:03 #6 type.registry] 
+New type domain.Reserva
+
+[2025-05-16 16:25:03 #7 type.registry] 
+New type domain.Actividades
+
+[2025-05-16 16:25:03 #8 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 16:25:03 #9 type.registry] 
+New type domain.Socio
+
+[2025-05-16 16:25:03 #10 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 16:25:03 #11 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 16:25:04 #12 type.registry] 
+New type domain.Factura
+
+[2025-05-16 16:25:04 #13 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 16:25:04 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-16 16:25:04 #15 type.registry] 
+New type java.util.Vector<domain.Sesion>
+
+[2025-05-16 16:25:04 #16 type.registry] 
+New type java.util.Vector<domain.Reserva>
+
+[2025-05-16 16:25:04 #17 type.registry] 
+New type java.util.Vector<domain.Factura>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 16:46:14 #1 server] 
+Server on port 6136 has started by 19224@DESKTOP-Q03EHD8
+
+[2025-05-16 16:46:30 #2 store] 
+Database 'C:\Users\maddi\git\isGlobal\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 19224@DESKTOP-Q03EHD8
+
+[2025-05-16 16:46:32 #3 store] 
+Database 'C:\Users\maddi\git\isGlobal\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 19224@DESKTOP-Q03EHD8
+
+[2025-05-16 16:46:40 #4 server] 
+Server on port 6136 has stopped by 19224@DESKTOP-Q03EHD8
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 16:49:57 #1 server] 
+Server on port 6136 has started by 4056@DESKTOP-Q03EHD8
+
+[2025-05-16 16:52:01 #2 server] 
+Server on port 6136 has stopped by 4056@DESKTOP-Q03EHD8
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 16:59:46 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 16:59:46 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 16:59:46 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 16:59:46 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 16:59:46 #5 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 16:59:46 #6 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:00:58 #1 store] 
+Database 'C:\Users\maddi\git\isGlobal\Rides24\src\main\resources\rides.temp' is opened by 20648@DESKTOP-Q03EHD8
+
+[2025-05-16 17:00:59 #2 type.registry] 
+New type domain.Sala
+
+[2025-05-16 17:00:59 #3 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 17:00:59 #4 type.registry] 
+New type domain.Sesion
+
+[2025-05-16 17:00:59 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 17:00:59 #6 type.registry] 
+New type domain.Reserva
+
+[2025-05-16 17:00:59 #7 type.registry] 
+New type domain.Actividades
+
+[2025-05-16 17:00:59 #8 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 17:00:59 #9 type.registry] 
+New type domain.Socio
+
+[2025-05-16 17:00:59 #10 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 17:00:59 #11 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 17:00:59 #12 type.registry] 
+New type domain.Factura
+
+[2025-05-16 17:00:59 #13 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 17:00:59 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-16 17:00:59 #15 type.registry] 
+New type java.util.Vector<domain.Sesion>
+
+[2025-05-16 17:00:59 #16 type.registry] 
+New type java.util.Vector<domain.Reserva>
+
+[2025-05-16 17:00:59 #17 type.registry] 
+New type java.util.Vector<domain.Factura>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:01:36 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 17:01:36 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 17:01:36 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 17:01:36 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 17:01:36 #5 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 17:01:36 #6 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:01:57 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 17:01:57 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 17:01:57 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 17:01:57 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 17:01:57 #5 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 17:01:57 #6 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 17:01:57 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-16 17:01:57 #8 type.registry] 
+New type java.util.Vector<domain.Sesion>
+
+[2025-05-16 17:01:57 #9 type.registry] 
+New type java.util.Vector<domain.Reserva>
+
+[2025-05-16 17:01:57 #10 type.registry] 
+New type java.util.Vector<domain.Factura>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:02:19 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 17:02:19 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 17:02:19 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 17:02:19 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 17:02:19 #5 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 17:02:19 #6 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:06:38 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 17:06:38 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 17:06:38 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 17:06:38 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 17:06:38 #5 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 17:06:38 #6 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:07:07 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 17:07:07 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 17:07:07 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 17:07:07 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 17:07:07 #5 type] 
+Type domain.Actividades is not enhanced.
+
+[2025-05-16 17:07:07 #6 type] 
+Type domain.Sala is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:44:13 #1 server] 
+Server on port 6136 has started by 1448@DESKTOP-Q03EHD8
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 17:44:14 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 17:44:32 #2 store] 
+Database 'C:\Users\maddi\git\isGlobal\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1448@DESKTOP-Q03EHD8
+
+[2025-05-16 17:44:47 #3 store] 
+Database 'C:\Users\maddi\git\isGlobal\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1448@DESKTOP-Q03EHD8
+
+[2025-05-16 17:45:01 #4 server] 
+Server on port 6136 has stopped by 1448@DESKTOP-Q03EHD8
+

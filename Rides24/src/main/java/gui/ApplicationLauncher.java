@@ -10,7 +10,6 @@ import javax.xml.ws.Service;
 
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
-import domain.Reserva;
 import businessLogic.BLFacade;
 import businessLogic.BLFacadeImplementation;
 
